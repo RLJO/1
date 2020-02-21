@@ -7,3 +7,8 @@
 	path = muk_dms
 	url = git@github.com:muk-it/muk_dms.git
 	branch = 12.0
+
+[submodule "Arch"]
+	path = Arch
+	url = git@github.com:RLJO/Arch.git
+	branch = Stage2_m_MoreApps
