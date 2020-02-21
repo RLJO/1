@@ -2,3 +2,8 @@
 	path = RLJO
 	url = git@github.com:RLJO/Arch.git
 	branch = stage
+
+[submodule "muk_dms"]
+	path = muk_dms
+	url = git@github.com:muk-it/muk_dms.git
+	branch = 12.0
