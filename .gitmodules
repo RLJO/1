@@ -7,3 +7,8 @@
 	path = Muk
 	url = git@github.com:RLJO/Arch.git
 	branch = Muk
+
+[submodule "MoreApps"]
+	path = MoreApps
+	url = git@github.com:RLJO/Arch.git
+	branch = Stage2_m_MoreApps
