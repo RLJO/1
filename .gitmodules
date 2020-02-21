@@ -2,3 +2,8 @@
 	path = RLJO
 	url = git@github.com:RLJO/Arch.git
 	branch = stage
+
+[submodule "Muk"]
+	path = Muk
+	url = git@github.com:RLJO/Arch.git
+	branch = Muk
