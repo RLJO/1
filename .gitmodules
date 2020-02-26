@@ -12,3 +12,8 @@
 	path = MoreApps
 	url = git@github.com:RLJO/Arch.git
 	branch = Stage2_m_MoreApps
+
+[submodule "RLCO/alfodoo"]
+	path = RLCO/alfodoo
+	url = git@github.com:RLCO/alfodoo.git
+	branch = 12.0
